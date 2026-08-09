@@ -1,0 +1,6 @@
+<mvc:View controllerName="com.zitadrix.panui5proj.controller.View2"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page2" title="My view 2">
+    </Page>
+</mvc:View>
